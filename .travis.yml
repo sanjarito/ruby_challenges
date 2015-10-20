@@ -1,0 +1,7 @@
+language: ruby
+ruby:
+  - '2.1.2'
+
+before_script: 'gem install rspec'
+
+script: "rspec spec"
