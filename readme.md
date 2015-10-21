@@ -1,6 +1,6 @@
 #Ruby Code challenges!!
 
-1. Fork this repo 
+1. Fork this repo
 
 2. Clone it.
 
@@ -20,6 +20,7 @@ In these puzzles, we are building a function which finds prime numbers! This is 
 Given an integer, output an array of its divisors.
 
 Your method is called `divisor`
+
 
 ###Divisor
 
@@ -46,7 +47,7 @@ An array of the divisors of the input integer.
 
 	Input: 27
 	Output: [1, 3, 9, 27]
-	
+
 	Input: 30
 	Output: [1, 2, 3, 5, 6, 10, 15, 30]
 
@@ -108,5 +109,3 @@ Output: [1,1,2,3,5,8,13]
 Input: 73
 Output: [1,1,2,3,5,8,13,21,34,55]
 ```
-
-
